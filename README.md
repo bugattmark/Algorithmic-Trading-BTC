@@ -34,7 +34,7 @@ Example in action:
 ---
 
 ### Improvements that I will implement in later projects: <br>
-- Optimisation algorithm like stochastic gradient descent for finding optimal strategy parameter values. <br>
+- Optimisation algorithm for finding optimal strategy parameter values. <br>
 - Deep Neural network for trading due to the very complex nature of markets <br>
 - Record and document the step-by-step process of projects for evaluation. <br>
 
